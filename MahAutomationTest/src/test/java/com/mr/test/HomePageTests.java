@@ -43,6 +43,7 @@ public class HomePageTests extends BaseTestObject
 	
 	static TermsAndConditions objTermsandConditions;
 	String BASE_URL = "http://www.naukri.com/";
+	//String BASE_URL = "http://www.naukri.com/";
 	
 	/*************************************************************************************************************************************/
 	
