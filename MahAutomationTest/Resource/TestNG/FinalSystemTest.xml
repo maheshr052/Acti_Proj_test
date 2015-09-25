@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Page Object test example">
+<parameter name="url" value="http://www.naukri.com/"/>
+<parameter name="browserType" value="FF"/>
+  <test name="sample test">
+    <classes>
+      <class name="com.mr.test.ReddyTest"/>
+      <!-- <methods>
+     
+     
+     
+     
+           </methods> -->
+    </classes>
+  </test>
+</suite>
